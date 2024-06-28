@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tloczek&label=Profile%20views&color=0e75b6&style=flat" alt="tloczek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tloczek" alt="tloczek" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Pracuje nad [HeroinC2](https://t.me/heroinprojects)
@@ -20,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/ziulo." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ziulo." height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/diamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diamond" height="30" width="40" /></a>
 <a href="https://discord.gg/h3r0in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h3r0in" height="30" width="40" /></a>
 </p>
 
