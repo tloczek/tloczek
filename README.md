@@ -1,5 +1,5 @@
 <h1 align="center">Siema 👋, Jestem Tloczek</h1>
-<h3 align="center">Prosty chłopak</h3>
+<h3 align="center">Tęgi Zjeb</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tloczek&label=Profile%20views&color=0e75b6&style=flat" alt="tloczek" /> </p>
 
