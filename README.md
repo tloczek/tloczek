@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Pracuje nad [HeroinC2](https://t.me/heroinprojects)
+- 🔭 Pracuje nad [PhantomC2](https://t.me/heroinprojects)
 
 - 🌱 Aktualnie uczę się **C++, Python, C#, Golang, Node, Java, PHP**
 
-- 👯 Szukam współprac [HeroinC2](https://t.me/heroinprojects)
+- 👯 Szukam współprac [PhantomC2](https://t.me/heroinprojects)
 
 - 📫 Kontakt **kontakt@tloczekszef.pl**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/ziulo." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ziulo." height="30" width="40" /></a>
-<a href="https://discord.gg/h3r0in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h3r0in" height="30" width="40" /></a>
+<a href="https://discord.gg/phantomc2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h3r0in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
